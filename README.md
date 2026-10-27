@@ -22,16 +22,16 @@
 - ✅ **Introduction to AI - Google** — May 2026
 
 **Applied**
-- 🌌 **NASA Space Apps Challenge** — Team UmbraOnxy — 2025 & 2026
+- 🌌 **NASA Space Apps Challenge** — Team UmbraOnxy —2026
 
 ---
 
 ### 🚀 What I Build — Services for Hire
 
-| Service | What You Get | Price |
-|---|---|---|
-| **🧠 Generative AI** | RAG Chatbots (Databricks + LangChain), AI Agent Assistants, LLM Security Audits | R2,500 - R5,000/project |
-| **🤖 Automation** | Business Automation Toolkit (save 10+ hrs/week), NASA API Dashboards | R500 - R2,000 |
+| Service | What You Get |
+|---|---|
+| **🧠 Generative AI** | RAG Chatbots (Databricks + LangChain), AI Agent Assistants, LLM Security Audits 
+| **🤖 Automation** | Business Automation Toolkit (save 10+ hrs/week), NASA API Dashboards 
 
 ---
 
