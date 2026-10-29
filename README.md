@@ -1,4 +1,4 @@
-# Hi there, I'm Lesego Mokoena 👋
+# Hi there, I'm Alondra👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Databricks+Accredited+Gen+AI+Engineer;Google+AI+Certified;NASA+Space+Apps+2026+-+Team+UmbraOnxy;Building+Secure+AI+for+Real+Businesses)](https://git.io/typing-svg)
 
